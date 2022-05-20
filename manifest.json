@@ -1,0 +1,27 @@
+{
+    "name": "chi calculator",
+    "short_name": "chi",
+    "icons": [
+        {
+            "src": "assets/icons/icons8-calculator-144.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "assets/icons/icons8-calculator-240.png",
+            "sizes": "240x240",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/icons/icons8-calculator-480.png",
+            "sizes": "480x480",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#fff5f5",
+    "background_color": "#fff5f5",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait"
+}
